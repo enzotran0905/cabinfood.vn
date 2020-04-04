@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Cabin Food Hub
 
 You can use the [editor on GitHub](https://github.com/enzotran0905/cabinfood.vn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
